@@ -21,9 +21,7 @@ pub fn app() -> Result<()> {
         terminal.draw(|frame| {
             let area = frame.size();
             frame.render_widget(
-                Paragraph::new("Hello Ratatui! (press 'q' to quit)")
-                    .white()
-                    .on_blue(),
+                Paragraph::new("Select your board (press 'q' to quit)").white(),
                 area,
             );
         })?;

@@ -1,0 +1,135 @@
+name = "hotdog"
+stages = [
+    "Backlog",
+    "Todo",
+    "In Progress",
+    "For Review",
+    "Done",
+]
+archive = []
+
+[[boards]]
+name = "Board 1 hotdog"
+
+[[boards.cards]]
+name = "Create CI CD pipeline with circle"
+stage = "In Progress"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards]]
+name = "Create CI CD pipeline with circle"
+stage = "In Progress"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards]]
+name = "Create CI CD pipeline with circle"
+stage = "In Progress"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards]]
+name = "Board 1 hotdog"
+
+[[boards.cards]]
+name = "Create CI CD pipeline with circle"
+stage = "In Progress"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards]]
+name = "Create CI CD pipeline with circle"
+stage = "In Progress"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards]]
+name = "Create CI CD pipeline with circle"
+stage = "In Progress"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards]]
+name = "Board 1 hotdog"
+
+[[boards.cards]]
+name = "Create CI CD pipeline with circle"
+stage = "In Progress"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards]]
+name = "Create CI CD pipeline with circle"
+stage = "In Progress"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards]]
+name = "Create CI CD pipeline with circle"
+stage = "In Progress"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"
+
+[[boards.cards.owners]]
+name = "Kristian Quirapas"

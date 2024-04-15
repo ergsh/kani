@@ -1,0 +1,23 @@
+name = "Kani"
+manager = "Kristian Quirapas"
+stages = [
+	"Backlog",
+	"Todo",
+	"In Progress",
+	"For Review",
+	"Done"
+]
+
+
+[members]
+kquirapas = { name = "Kristian Quirapas", email = "myemail@gmail.com", role = "CTO" }
+
+[board1]
+card1 = { stage = "Backlog", owners = [] }
+card2 = { stage = "In Progress", owners = ["kquirapas"] }
+
+[board2]
+card1 = { stage = "Backlog", owners = [] }
+
+[archive]
+card2 = { stage = "In Progress", owners = ["kquirapas"] }
