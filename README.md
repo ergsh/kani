@@ -1,3 +1,6 @@
+# Kani 🦀🦀🦀
+ A Rust-powered 🦀 Kanban-as-Code TUI binary.
+
 # Kanban-as-Code
 Track your repositories progress with a repo-embedded Kanban!
 
@@ -12,3 +15,9 @@ A Kanban-as-Code
 
 # Solution
 Using a TUI binary built with Rust. A terminal-based Kanban board can be invoked which is locally stored and saved within your repository.
+
+# Roadmap
+- Initial Kanban board TUI
+- Persistence with `.kani`
+- TOML Configuration
+- Github-linked card/ticket assignment
