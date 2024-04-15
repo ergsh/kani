@@ -1,4 +1,4 @@
-![Kani Metadata Image](./.github/kani_metadata.png)
+![Kani Metadata Image](https://github.com/kquirapas/kanban-as-code/blob/main/.github/img/kani%20metadata.png)
 
 # Kani 🦀🦀🦀
  A Rust-powered 🦀 Kanban-as-Code TUI binary.
